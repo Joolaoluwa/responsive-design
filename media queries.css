@@ -251,7 +251,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus,inpu
   width:80%;
   color: white;
   /* width:80%; */
-  font-size: 2rem;
+  font-size: 1.5rem;
   /* margin: 4rem auto; */
   /* justify-content: center;
   align-content: center; */
@@ -274,7 +274,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus,inpu
     border: none;
     border-radius: .5rem;
     box-shadow: .15rem .1rem .15rem grey;
-    margin: 2rem auto 2rem;
+    margin: 2rem auto 1rem;
 }
 a{
     text-decoration: none;
@@ -291,9 +291,9 @@ a{
    background-color: white;
    margin: 0 auto 0;
    width: 80%;
-   height: 50%;
+   height: 40%;
    border-radius: .5rem;
-   padding: .65rem;
+   padding: .5rem;
 }
 /* input style */
 .form input{
@@ -303,7 +303,7 @@ a{
 input[type=text], input[type=email], input[type=password],input[type=submit]{
     margin: 1.5rem auto 0;
     width: 80%;
-    padding: 1rem;
+    padding: .5rem;
     border-radius: .65rem;
 }
 input[type=submit]{
