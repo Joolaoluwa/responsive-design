@@ -268,7 +268,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus,inpu
 /* button */
 .button{
     width: 80%;
-    padding: 2rem;
+    padding: 1rem;
     background-color: #5D54A3;
     border: none;
     border-radius: .5rem;
@@ -314,8 +314,8 @@ input[type=submit]{
    box-shadow: .25rem .25rem .25rem grey;
 }
 p{
-    width: 80%;
-    margin: 0.5rem auto 0;
+    /* width: 80%; */
+    margin: 0 auto 0;
 }
 input[type=text]:focus, input[type=email]:focus, input[type=password]:focus,input[type=submit]:focus{
     outline: none;
