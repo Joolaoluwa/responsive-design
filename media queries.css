@@ -236,7 +236,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus,inpu
     display: flex;
     flex-direction: column;
     /* gap: rem; */
-    width: 100%;
+    width: 80%;
     height: 100%;
     background-color: #FF7978;
     border: .25rem solid #FF7978;
